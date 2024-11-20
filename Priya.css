@@ -68,6 +68,27 @@ img{
     box-shadow: 0 5px 10px purple !important;
 }
 
+
+  h1 {
+    color: #00BFFF;
+    font-family: "Playfair Display";
+    font-weight: 800;
+    font-size: 60px;
+}
+h2 {
+    color: white;
+    font-size: 45px;
+    font-family: "roboto slab";
+    font-weight: 400;
+}
+h3 {
+    color: #69C9D0;
+    font-family: "Poppins";
+}
+p {
+    font-family: "Montserrat", sans-serif !important;
+    color: white;
+}
 /* P blanc et class couleur bleu */
 footer>p {
     color: white;
